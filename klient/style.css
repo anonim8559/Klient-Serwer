@@ -8,8 +8,10 @@
 
 #menu {
   grid-area: menu;
+  background-color: grey;
 }
 
 #strona {
   grid-area: strona;
+  background-color: darkgray;
 }
