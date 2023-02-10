@@ -8,10 +8,15 @@
 
 #menu {
   grid-area: menu;
-  background-color: grey;
+  background-color: rgb(46, 46, 46);
+  display: flex;
+  align-content: center;
+  flex-direction: column;
+  gap: 50px;
+  padding: 100px;
 }
 
 #strona {
   grid-area: strona;
-  background-color: darkgray;
+  background-color: gray;
 }
